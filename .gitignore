@@ -3,3 +3,6 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+regression/lab01_explained.md
+classification/lab02_explained.ipynb
+classification/lab02_explained.html
